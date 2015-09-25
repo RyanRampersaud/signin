@@ -13,3 +13,7 @@ $('input').on('click',function(e){
 $('input').on('click',function(e){
 	$('this').removeClass('error')
 });
+
+$('.modal').on('mouseover',function(e){
+	$('input').remove
+});	
